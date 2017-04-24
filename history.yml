@@ -1,0 +1,18 @@
+---
+valuation: "data: {\"current\":97,\"last\":78,\"id\":\"valuation\",\"updatedAt\":1490117100}\n\n"
+karma: "data: {\"current\":120008,\"last\":170704,\"id\":\"karma\",\"updatedAt\":1490117100}\n\n"
+synergy: "data: {\"value\":91,\"id\":\"synergy\",\"updatedAt\":1490117100}\n\n"
+convergence: "data: {\"points\":[{\"x\":3068055,\"y\":45},{\"x\":3068056,\"y\":15},{\"x\":3068057,\"y\":20},{\"x\":3068058,\"y\":20},{\"x\":3068059,\"y\":6},{\"x\":3068060,\"y\":1},{\"x\":3068061,\"y\":37},{\"x\":3068062,\"y\":34},{\"x\":3068063,\"y\":4},{\"x\":3068064,\"y\":8}],\"id\":\"convergence\",\"updatedAt\":1490117100}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Pivoting\",\"value\":2},{\"label\":\"Paradigm
+  shift\",\"value\":8},{\"label\":\"Turn-key\",\"value\":9},{\"label\":\"Streamlininess\",\"value\":21},{\"label\":\"Exit
+  strategy\",\"value\":14},{\"label\":\"Web 2.0\",\"value\":5},{\"label\":\"Enterprise\",\"value\":10},{\"label\":\"Synergy\",\"value\":23},{\"label\":\"Leverage\",\"value\":12}],\"id\":\"buzzwords\",\"updatedAt\":1490117100}\n\n"
+sfdc: "data: {\"items\":[{\"label\":\"00010373\",\"value\":\"Critical\"},{\"label\":\"00010353\",\"value\":\"Critical\"},{\"label\":\"00010348\",\"value\":\"Critical\"}],\"id\":\"sfdc\",\"updatedAt\":1477934457}\n\n"
+sfdccritical: "data: {\"items\":[[{\"label\":\"00009111\",\"value\":\"Rob Wolters\"}],[{\"label\":\"00010373\",\"value\":\"Support
+  Unassigned\"}],[{\"label\":\"00010353\",\"value\":\"Support Unassigned\"}],[{\"label\":\"00010348\",\"value\":\"Support
+  Unassigned\"}]],\"id\":\"sfdccritical\",\"updatedAt\":1477934457}\n\n"
+jive: "data: {\"items\":[{\"label\":\"MXF closed captions not embedded\",\"value\":\"Puneet
+  Johar\"},{\"label\":\"Growing file to be ingested in Adobe Premiere\",\"value\":\"Luca
+  Moglia\"},{\"label\":\"CPU Load factor follow up\",\"value\":\"Purvin Pandit\"},{\"label\":\"How
+  to stream RTMP from an Elemental Live to an Elemental Delta?\",\"value\":\"Rolf
+  Grzibek\"},{\"label\":\"Unable to extract of embedded closed caption or pass through
+  in encoded file\",\"value\":\"Puneet Johar\"}],\"id\":\"jive\",\"updatedAt\":1486173632}\n\n"
